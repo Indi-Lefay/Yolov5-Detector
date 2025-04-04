@@ -54,10 +54,29 @@ Durante o treinamento, o modelo apresentou resultados satisfatórios ao longo da
 As imagens das métricas geradas estão disponíveis na pasta `runs/train/gender_yolo_model_results/` e podem ser visualizadas abaixo:
 
 <p align="center">
-  <img src="/runs/train/exp2/confusion_matrix.png" width="500" alt="Curva de Loss">
+  <img src="/runs/train/exp2/confusion_matrix.png" width="500" alt="Matriz de Confusão">
 </p>
 
-> **Observação:** Se o número de imagens ou detalhes for extenso, você pode optar por criar um arquivo específico (por exemplo, `RESULTS.md`) para documentar cada métrica detalhadamente.
+<p align="center">
+  <img src="/runs/train/exp2/P_curve.png" width="500" alt="Curva de Precisão">
+</p>
+
+<p align="center">
+  <img src="/runs/train/exp2/R_curve.png" width="500" alt="Curva de Revocação">
+</p>
+
+<p align="center">
+  <img src="/runs/train/exp2/PR_curve.png" width="500" alt="Curva de Precisão-Revocação">
+</p>
+
+<p align="center">
+  <img src="/runs/train/exp2/F1_curve.png" width="500" alt="Curva F1">
+</p>
+
+<p align="center">
+  <img src="/runs/train/exp2/results.png" width="500" alt="Resultados do Treinamento">
+</p>
+
 
 ---
 
