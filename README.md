@@ -29,7 +29,9 @@ Este dataset contém imagens anotadas para identificação de **masculino** e **
 O treinamento foi realizado utilizando a seguinte configuração:
 
 git clone https://github.com/ultralytics/yolov5.git
+
 cd yolov5
+
 pip install -r requirements.txt
 
 # O treinamento foi iniciado com o seguinte comando:
