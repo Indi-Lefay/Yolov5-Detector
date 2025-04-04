@@ -19,7 +19,8 @@ Este dataset contém imagens anotadas para identificação de **masculino** e **
 - 🧠 YOLOv5 - [Ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 - 🖥️ GPU NVIDIA RTX 2060
 - 🔥 PyTorch
-- 📦 Roboflow (para obtenção e formatação do dataset)
+- 📷 OpenCV
+- 📦 Roboflow
 - 💻 Python com foco em Orientação a Objetos (OO)
 
 ---
