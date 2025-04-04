@@ -42,8 +42,7 @@ python train.py --img 640 --batch 16 --epochs 350 --data ./data.yaml --cfg yolov
 
 ## 📊 Resultados
 
-Durante o treinamento, o modelo apresentou resultados satisfatórios ao longo das 350 épocas. A seguir, estão destacados os principais indicadores:
-
+Durante o treinamento, o modelo apresentou os resultados ao longo das 350 épocas. A seguir, estão destacados os principais indicadores:
 
 - [📊 Resultados do Modelo](./resultados_metricas.md)
 
