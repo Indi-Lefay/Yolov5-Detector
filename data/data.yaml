@@ -1,0 +1,13 @@
+train: D:\Teste Yolo\dataset\Gender-Recognition.v4i.yolov5pytorch/train/images
+val: D:\Teste Yolo\dataset\Gender-Recognition.v4i.yolov5pytorch/valid/images
+test: D:\Teste Yolo\dataset\Gender-Recognition.v4i.yolov5pytorch/test/images
+
+nc: 2
+names: ['female', 'male']
+
+roboflow:
+  workspace: rehabcv
+  project: gender-recognition-ukake
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rehabcv/gender-recognition-ukake/dataset/4
