@@ -21,7 +21,6 @@ Este dataset contém imagens anotadas para identificação de **masculino** e **
 - 🔥 PyTorch
 - 📦 Roboflow (para obtenção e formatação do dataset)
 - 💻 Python com foco em Orientação a Objetos (OO)
-- 🐍 Google Colab / Jupyter Notebook (opcional)
 
 ---
 
