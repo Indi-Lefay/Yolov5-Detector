@@ -35,10 +35,6 @@ cd yolov5
 pip install -r requirements.txt
 ```
 
-O treinamento foi iniciado com o seguinte comando:
-```bash 
-python train.py --img 640 --batch 16 --epochs 350 --data ./data.yaml --cfg yolov5m.yaml --weights yolov5s.pt --name gender_yolo_model
-```
 ---
 
 ## 📊 Resultados
