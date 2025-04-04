@@ -28,15 +28,16 @@ Este dataset contém imagens anotadas para identificação de **masculino** e **
 
 O treinamento foi realizado utilizando a seguinte configuração:
 
-\`\`\`bash
+```bash
 git clone https://github.com/ultralytics/yolov5.git
 cd yolov5
 pip install -r requirements.txt
-\`\`\`
+```
 
 # O treinamento foi iniciado com o seguinte comando:
+```bash 
 python train.py --img 640 --batch 16 --epochs 350 --data ./data.yaml --cfg yolov5s.yaml --weights yolov5s.pt --name gender_yolo_model
-
+```
 ---
 
 ## 📊 Resultados
