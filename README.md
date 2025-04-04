@@ -56,7 +56,7 @@ Este projeto foi uma introdução prática ao universo da **Visão Computacional
 
 - Consolidar conhecimentos em **Redes Neurais Convolucionais (CNNs)**;
 - Aplicar conceitos de **Orientação a Objetos (OO)** no desenvolvimento de scripts;
-- Utilizar frameworks modernos como **PyTorch**, ferramentas como **Roboflow** e, além disso, **OpenCV** para visão computacional..
+- Utilizar frameworks modernos como **PyTorch**, ferramentas como **Roboflow** e, além disso, **OpenCV** para visão computacional.
 - Experiência em visão computacional utilizando GPUs com processamento local.
 
 ---
