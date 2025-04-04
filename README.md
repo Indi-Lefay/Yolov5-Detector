@@ -44,38 +44,6 @@ python train.py --img 640 --batch 16 --epochs 350 --data ./data.yaml --cfg yolov
 
 Durante o treinamento, o modelo apresentou resultados satisfatórios ao longo das 350 épocas. A seguir, estão destacados os principais indicadores:
 
-### Métricas de Desempenho
-
-- **Precisão (Precision)**
-- **Revocação (Recall)**
-- **mAP@0.5 (Mean Average Precision)**
-- **Curvas de Loss (perda) e outros indicadores**
-
-As imagens das métricas geradas estão disponíveis na pasta `runs/train/gender_yolo_model_results/` e podem ser visualizadas abaixo:
-
-<p align="center">
-  <img src="/runs/train/exp2/confusion_matrix.png" width="500" alt="Matriz de Confusão">
-</p>
-
-<p align="center">
-  <img src="/runs/train/exp2/P_curve.png" width="500" alt="Curva de Precisão">
-</p>
-
-<p align="center">
-  <img src="/runs/train/exp2/R_curve.png" width="500" alt="Curva de Revocação">
-</p>
-
-<p align="center">
-  <img src="/runs/train/exp2/PR_curve.png" width="500" alt="Curva de Precisão-Revocação">
-</p>
-
-<p align="center">
-  <img src="/runs/train/exp2/F1_curve.png" width="500" alt="Curva F1">
-</p>
-
-<p align="center">
-  <img src="/runs/train/exp2/results.png" width="500" alt="Resultados do Treinamento">
-</p>
 
 - [📊 Resultados do Modelo](./resultados_metricas.md)
 
@@ -88,10 +56,7 @@ Este projeto foi uma introdução prática ao universo da **Visão Computacional
 
 - Consolidar conhecimentos em **Redes Neurais Convolucionais (CNNs)**;
 - Aplicar conceitos de **Orientação a Objetos (OO)** no desenvolvimento de scripts;
-- Utilizar frameworks modernos como **PyTorch** e ferramentas como o **Roboflow** para formatação de datasets.
-
-O treinamento realizado com uma **GPU NVIDIA RTX 2060** evidenciou a eficiência do hardware aliado a técnicas avançadas de deep learning, possibilitando uma boa generalização do modelo.
+- Utilizar frameworks modernos como **PyTorch**, ferramentas como **Roboflow** e, além disso, **OpenCV** para visão computacional..
+- Experiência em visão computacional utilizando GPUs com processamento local.
 
 ---
-
-
