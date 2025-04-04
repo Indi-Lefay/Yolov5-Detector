@@ -77,6 +77,8 @@ As imagens das métricas geradas estão disponíveis na pasta `runs/train/gender
   <img src="/runs/train/exp2/results.png" width="500" alt="Resultados do Treinamento">
 </p>
 
+(./resultados.md)
+
 
 ---
 
