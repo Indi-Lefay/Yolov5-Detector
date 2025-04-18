@@ -1,6 +1,6 @@
 # Detector-Yolov5
 
-# 🧠 Gender Recognition com YOLOv5
+# 🧠 Gender Recognition (male and female aspects) com YOLOv5
 
 Este projeto foi desenvolvido como uma introdução prática ao universo da **Visão Computacional** utilizando **Redes Neurais Convolucionais (CNNs)** com a arquitetura **YOLOv5**. O objetivo foi realizar o treinamento de uma rede para **detecção e reconhecimento de gênero** a partir de imagens, utilizando **PyTorch**, **Ultralytics YOLOv5** e um **dataset do Roboflow**.
 
